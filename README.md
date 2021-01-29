@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **at Microverse full-stack development**
 
-- 💬 Ask me about **React-Redux-Sagas & C# SQLServer**
+- 💬 Ask me about **React-Redux-Sagas Material UI Chart JS REST API & C# SQLServer**
 
 - 📫 How to reach me **ero.auditore@gmail.com**
 
