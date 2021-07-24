@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">I'm a software engineer passionate React-Redeux on my way learning mobile development with react native</h3>
+<h3 align="center">I'm a software engineer passionate React-Redux on my way learning mobile development with react native</h3>
 
 - 🌱 I’m currently learning **at Microverse full-stack development**
 
