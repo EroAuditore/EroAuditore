@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">I'm a software engineer passionate React-Redux on my way learning mobile development with react native</h3>
 
-- 💬 Ask me about **React-Redux Sagas, Material UI, Chart JS, REST API, HTML, CSS & C# SQL**
+- 💬 Ask me about **Ruby on Rails, React-Redux Sagas, Material UI, Chart JS, REST API, HTML, CSS & C# SQL**
 
 - 📫 How to reach me **ero.auditore@gmail.com**
 
